@@ -15,33 +15,27 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>display-image</string>
 					<key>url</key>
-					<string>https://archive.org/download/4-f-656174-3-df-2-472-b-9-fe-6-656-d-4-f-2-ed-927/4F656174-3DF2-472B-9FE6-656D4F2ED927.png</string>
+					<string>https://hamastore.netlify.app/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://archive.org/download/4-f-656174-3-df-2-472-b-9-fe-6-656-d-4-f-2-ed-927/4F656174-3DF2-472B-9FE6-656D4F2ED927.png</string>
+					<string>https://hamastore.netlify.app//icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontierdesign.videostarplus66</string>
+				<string>com.frontierdesign.videostarpro76</string>
 				<key>bundle-version</key>
-				<string>438</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>VideoStarOld</string>
 				<key>title</key>
-				<string>VideoStarOld</string>
+				<string>videostar</string>
 			</dict>
 		</dict>
 	</array>
